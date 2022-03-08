@@ -18,7 +18,7 @@ body{
     background: #fff;
     flex-wrap: wrap;
     flex-flow: row;
-    justify-content: center;
+    justify-content:flex-end;
 }
 
 .box{
